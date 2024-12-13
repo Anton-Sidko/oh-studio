@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Neue Montreal Regular';
+  src: local('Neue Montreal Regular'), local('Neue-Montreal-Regular'),
+    url('../src/fonts/NeueMontreal-Regular/NeueMontreal-Regular.ttf') format('woff2'),
+    url('../src/fonts/NeueMontreal-Regular/NeueMontreal-Regular.woff') format('woff'),
+    url('../src/fonts/NeueMontreal-Regular/NeueMontreal-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Montreal Medium';
+  src: local('Neue Montreal Medium'), local('Neue-Montreal-Medium'),
+    url('../src/fonts/NeueMontreal-Medium/NeueMontreal-Medium.woff2') format('woff2'),
+    url('../src/fonts/NeueMontreal-Medium/NeueMontreal-Medium.woff') format('woff'),
+    url('../src/fonts/NeueMontreal-Medium/NeueMontreal-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
